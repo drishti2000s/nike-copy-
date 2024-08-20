@@ -1,0 +1,101 @@
+@media only screen and (min-width:1920px) {    
+}
+
+@media only screen and (min-width:1600px) and (max-width:1900px){
+
+}
+
+@media only screen and (min-width:1300px) and (max-width:1390px){
+    
+}
+@media only screen and (min-width:1200px) and (max-width:1280px){
+
+
+    
+}
+
+@media only screen and (max-width:1180px){
+    
+}
+
+@media only screen and (max-width:991px){
+    
+    .navbar-nav {
+        padding-left: 0;
+    }
+    .shoe-text h1 {
+        font-size: 65px;}
+
+        .foralign {
+            justify-content: center;
+            margin-bottom: 50px;
+            row-gap: 20px;
+        }
+
+.style-content {
+    padding: 0 100px;
+}
+.changeb {
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.trow{
+    row-gap: 30px;
+}
+.carousel-indicators {
+   
+    flex-direction: row;
+    top: 90%;
+    left: 40%;
+}
+.shoe-text {
+    margin-top: 30px;
+}
+.nav-link {
+    padding: 10px 25px;}
+    .nav-pills {
+        justify-content: space-between;
+        padding-bottom: 50px;
+    }
+.broma {
+    row-gap: 30px;
+}
+.navbar-light .navbar-brand {
+    width: 10%;
+}
+.p2{
+font-size: 18px;
+}
+
+.teemate {
+    padding: 0 85px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (max-width:767px){
+    .s6-text {
+        padding: 0 120px;
+    }
+    .p-absolute {
+        display: none;
+    }
+    .s6-text {
+        padding: 0 40px;
+    }
+
+
+}
+
+@media screen and (max-width:525px){
+
+}
+
